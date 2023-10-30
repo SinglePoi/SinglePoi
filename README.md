@@ -1,6 +1,10 @@
 ### Hi there 👋 I'm SinglePoi
 
 - 🌱 I’m currently learning Vue.js and vite
+
+
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=SinglePoi&show_icons=true&theme=github_dark_dimmed"/>
+
 <!--
 **SinglePoi/SinglePoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=SinglePoi&show_icons=true&theme=github_dark_dimmed"/>
 
 #### Languages
 
